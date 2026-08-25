@@ -1,4 +1,5 @@
-# 🛰️ NetSage AI
+# 🛰️ NetSage AI 
+https://natsageai-qlxh3kmxg32xqd7p7sdoe4.streamlit.app/
 
 **AI-assisted troubleshooter for Cisco Packet Tracer lab problems, with mandatory human review before any diagnosis is accepted.**
 
